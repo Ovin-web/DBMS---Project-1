@@ -7,7 +7,6 @@ This project is a Database Management System (DBMS) focused on product safety an
 The system stores information about products, inspections, and certification status, helping users easily understand compliance and safety patterns.
 
 ---
-
 ## Project Objective
 - Build a system to manage product safety data  
 - Enable natural language queries on compliance data  
