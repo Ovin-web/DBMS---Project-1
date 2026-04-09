@@ -66,7 +66,5 @@ The system stores information about products, inspections, and certification sta
 ---
 
 ## How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Ovin-web/DBMS---Project-1.git
+1.Tap the link:
+https://github.com/Ovin-web/DBMS---Project-1
